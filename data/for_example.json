@@ -1,0 +1,32 @@
+{
+	"semel_yishuv": "873",
+	"name": "שלווה",
+	"nafa": {
+		"name": "אשקלון",
+		"id_code": 61
+	},
+	"leshkat_mena": {
+		"name": "אשקלון",
+		"id_code": 61
+	},
+	"mu'atza_ezorit": {
+		"name": "שפיר",
+		"id_code": 34
+	},
+	"pepole": {
+		"number": 659,
+		"ages": {
+			"0_to_5": 91,
+			"6_to_18": 91,
+			"19_to_45": 91,
+			"46_to_55": 91,
+			"56_to_64": 91,
+			"65_plus": 91
+		},
+		"religion": {
+			"PepoleNumberJewishWithOther": 579,
+			"PepoleNumberJewish": 577,
+			"PepoleNumberArab": 0
+		}
+	}
+}
