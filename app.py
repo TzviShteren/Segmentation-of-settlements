@@ -1,6 +1,8 @@
 from flask import Flask
+import logging
 
 app = Flask(__name__)
+logging.basicConfig(filename='server_side.log', level=logging.INFO)
 
 
 @app.route('/')
